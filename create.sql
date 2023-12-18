@@ -1,6 +1,6 @@
-create schema ltm_;
+create schema ltm;
 
-use ltm_;
+use ltm;
 
 create table account (
 	id int primary key auto_increment,
